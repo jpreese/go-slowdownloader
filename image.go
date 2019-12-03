@@ -1,4 +1,4 @@
-package slwimage
+package slowimage
 
 import "time"
 
