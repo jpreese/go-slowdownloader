@@ -1,3 +1,3 @@
-module github.com/jpreese/go-slowimagedownloader
+module github.com/jpreese/slowimage
 
 go 1.13
